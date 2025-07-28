@@ -35,10 +35,16 @@ Somos **Esporadix**, un equipo de desarrolladores especializados en crear aplica
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="Express.js">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">
 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="48" title="MySQL">
+
 ### Herramientas
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg" width="48" title="Npm">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" width="48" title="Vercel">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Yarn-Dark.svg" width="48" title="Yarn">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="48" title="VSCode">
 
 </div>
 

@@ -1,5 +1,5 @@
 # 🚀 Esporadix
- 
+
 <div align="center">
 
 **💻 Desarrollamos software moderno y escalable**
@@ -19,6 +19,7 @@ Somos **Esporadix**, un equipo de desarrolladores especializados en crear aplica
 <div align="center">
 
 ### Frontend
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="Tailwind CSS">
@@ -27,12 +28,15 @@ Somos **Esporadix**, un equipo de desarrolladores especializados en crear aplica
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="JavaScript">
 
 ### Backend
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="48" title="Express.js">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">
 
 ### Herramientas
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48" title="Vite">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
 
